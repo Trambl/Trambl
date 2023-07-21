@@ -1,5 +1,5 @@
 def main():
-...
+ print("Hello Git!")
 
 def function_1():
 ...
